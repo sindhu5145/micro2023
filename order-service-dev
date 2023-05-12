@@ -1,0 +1,9 @@
+server:
+  port: 9082
+
+spring:
+  datasource:
+    url: jdbc:mysql://${DB_HOST:localhost}:3306/orderdbdev
+    username: dev
+    password: devpassword
+   
