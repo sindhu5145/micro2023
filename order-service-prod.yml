@@ -1,3 +1,6 @@
+test:
+  message: Hello from prod
+
 server:
   port: 7082
 
