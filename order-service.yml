@@ -1,3 +1,6 @@
+test:
+  message: Hello from default
+
 server:
   port: 8082
 
